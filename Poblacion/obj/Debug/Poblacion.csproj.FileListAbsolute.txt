@@ -1,0 +1,9 @@
+c:\users\sebastian-pc\documents\visual studio 2013\Projects\Poblacion\Poblacion\bin\Debug\Poblacion.exe.config
+c:\users\sebastian-pc\documents\visual studio 2013\Projects\Poblacion\Poblacion\bin\Debug\Poblacion.exe
+c:\users\sebastian-pc\documents\visual studio 2013\Projects\Poblacion\Poblacion\bin\Debug\Poblacion.pdb
+c:\users\sebastian-pc\documents\visual studio 2013\Projects\Poblacion\Poblacion\obj\Debug\Poblacion.csprojResolveAssemblyReference.cache
+c:\users\sebastian-pc\documents\visual studio 2013\Projects\Poblacion\Poblacion\obj\Debug\Poblacion.Form1.resources
+c:\users\sebastian-pc\documents\visual studio 2013\Projects\Poblacion\Poblacion\obj\Debug\Poblacion.Properties.Resources.resources
+c:\users\sebastian-pc\documents\visual studio 2013\Projects\Poblacion\Poblacion\obj\Debug\Poblacion.csproj.GenerateResource.Cache
+c:\users\sebastian-pc\documents\visual studio 2013\Projects\Poblacion\Poblacion\obj\Debug\Poblacion.exe
+c:\users\sebastian-pc\documents\visual studio 2013\Projects\Poblacion\Poblacion\obj\Debug\Poblacion.pdb
